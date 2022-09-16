@@ -6,6 +6,7 @@ This dataset was gathered from the StockX 2019 Data contest where they provided 
 
 Business Problem
 
+We want to create a dashboard with the initial sales information we were given:
 -What shoes are most popular?
 -Which shoes have the best/worst profit margins?
 -What factors affect profit margin?

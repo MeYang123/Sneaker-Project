@@ -10,5 +10,4 @@ We want to create a dashboard with the initial sales information we were given:
 -What shoes are most popular?
 -Which shoes have the best/worst profit margins?
 -What factors affect profit margin?
--Is it possible to predict the sale price of a shoe at a given time? (i.e. when should I sell?)
 

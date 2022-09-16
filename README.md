@@ -6,8 +6,8 @@ This dataset was gathered from the StockX 2019 Data contest where they provided 
 
 Business Problem
 
-•	What shoes are most popular?
-•	Which shoes have the best/worst profit margins?
-•	What factors affect profit margin?
-•	Is it possible to predict the sale price of a shoe at a given time? (i.e. when should I sell?)
+-What shoes are most popular?
+-Which shoes have the best/worst profit margins?
+-What factors affect profit margin?
+-Is it possible to predict the sale price of a shoe at a given time? (i.e. when should I sell?)
 
